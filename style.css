@@ -1,0 +1,22 @@
+.Container{
+    width: 600px;
+    background-color: rgb(255, 208, 246);
+    padding: 30px;
+    margin: 6% 32%;
+}
+.Container {
+    display: none;
+}
+.active {
+    display: block;
+}
+
+#ans11,#ans12,#ans13,#ans14,#ans21,#ans22,#ans23,#ans24,#ans41,#ans42,#ans43,#ans44,#ans31,#ans32,#ans33,#ans34,#ans51,#ans52,#ans53,#ans54{
+    width: 500px;
+    margin: 10px;
+    text-align: left;
+   
+}
+.navigation{
+    text-align: center;
+}
